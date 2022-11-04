@@ -149,3 +149,20 @@ body {
 
 
 }
+
+.footer {
+    background-color: black;
+    padding-bottom: 20px;
+}
+
+#last {
+    text-align: center;
+}
+
+#be {
+    color: #FF5959;
+    font-style: oblique;
+    padding-top: 70px;
+    font-family: 'Pacifico', cursive;
+
+}
