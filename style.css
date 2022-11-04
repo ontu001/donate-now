@@ -116,16 +116,18 @@ body {
     background-color: #FFF4D6;
     padding-bottom: 150px;
     padding-top: 20px;
-    margin-left: 320px;
-    margin-right: 400px;
-    margin-bottom: 200px;
+    height: 0%;
+    width: 55%;
+    margin-left: 25%;
+    margin-bottom: 100px;
+
 
 
 }
 
 #content {
     margin-top: 100px;
-    margin-left: 350px;
+    margin-left: 300px;
     display: flex;
 
 }
@@ -133,11 +135,14 @@ body {
 #sub {
     text-decoration: none;
 
-    padding-right: 40px;
-    padding-bottom: 32px;
+    padding: 0px 40px;
+    height: 50px;
+
     color: white;
     border-radius: 0px 5px 5px 0px;
     background-color: #FF5959;
+
+
 
 }
 
@@ -145,6 +150,7 @@ body {
     background-color: #D9D9D9;
     border-radius: 5px 0px 0px 5px;
     padding: 0px 150px;
+    height: 50px;
 
 
 
@@ -153,6 +159,7 @@ body {
 .footer {
     background-color: black;
     padding-bottom: 20px;
+    height: 250px;
 }
 
 #last {
@@ -162,7 +169,7 @@ body {
 #be {
     color: #FF5959;
     font-style: oblique;
-    padding-top: 70px;
+    padding-top: 100px;
     font-family: 'Pacifico', cursive;
 
 }
