@@ -1,5 +1,6 @@
 body {
     font-family: 'Roboto Condensed', sans-serif;
+    margin: 0
 }
 
 .back {
@@ -102,5 +103,49 @@ body {
     color: white;
     border-radius: 8px;
     background-color: #FF5959;
+
+}
+
+.get-my-updates {
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.subscribe {
+    background-color: #FFF4D6;
+    padding-bottom: 150px;
+    padding-top: 20px;
+    margin-left: 320px;
+    margin-right: 400px;
+    margin-bottom: 200px;
+
+
+}
+
+#content {
+    margin-top: 100px;
+    margin-left: 350px;
+    display: flex;
+
+}
+
+#sub {
+    text-decoration: none;
+
+    padding-right: 40px;
+    padding-bottom: 32px;
+    color: white;
+    border-radius: 0px 5px 5px 0px;
+    background-color: #FF5959;
+
+}
+
+.mail {
+    background-color: #D9D9D9;
+    border-radius: 5px 0px 0px 5px;
+    padding: 0px 150px;
+
+
 
 }
